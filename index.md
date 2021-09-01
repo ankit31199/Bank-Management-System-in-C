@@ -52,11 +52,10 @@ All rights reserved by [github.com/ankit31199](https://github.com/ankit31199). C
   
   
 # Code
-  
 ```
-#include<stdio.h>
-#include<stdlib.h>
-#include<windows.h>
+include<stdio.h>
+include<stdlib.h>
+include<windows.h>
 int i,j;
 int main_exit;
 void menu();
@@ -633,3 +632,5 @@ int main()
         return 0;
 }
 
+```
+  ```
