@@ -8,7 +8,12 @@ This is Bank management system project solely designed by me in C.This was done 
 1. This program is tested on Dev C++. 
 
 ## Screenshot
-![ss](https://user-images.githubusercontent.com/61941123/107244889-8a003a80-6a54-11eb-921e-96e0d87140c7.PNG)
+![Screenshot (244)](https://user-images.githubusercontent.com/61941123/131651784-c048f3a6-afe3-433a-953d-416c0fcb612d.png)  
+  
+  <br> </br>
+  
+![Screenshot (245)](https://user-images.githubusercontent.com/61941123/131651787-0c8b9a97-5424-4469-afcb-39e09731d86b.png)
+
 
 
 ### References:
