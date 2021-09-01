@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Bank-Management-System-in-C  
+This is Bank management system project solely designed by me in C.This was done by me in the 3rd semester of my college.I used C language and Data Structures for this project with basic or no graphics file added with the help of graphics.h header file. 
 
-You can use the [editor on GitHub](https://github.com/ankit31199/Bank-Management-System-in-C/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 
+<strong>C Project-- Bank Management System in C <strong>  
+  
+  ## Note :
+1. This program is tested on Dev C++. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Screenshot
+![Screenshot (244)](https://user-images.githubusercontent.com/61941123/131651784-c048f3a6-afe3-433a-953d-416c0fcb612d.png)  
+  
+  <br> </br>
+  
+![Screenshot (245)](https://user-images.githubusercontent.com/61941123/131651787-0c8b9a97-5424-4469-afcb-39e09731d86b.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### References:
+1. Geeks for Geeks
+2. W3Schools
+3. Github
+4. Stackoverflow
+5.Codeacademy and many more to get an idea of the logic.
 
-# Header 1
-## Header 2
-### Header 3
+#
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Author: [github.com/ankit31199](https://github.com/ankit31199)
 
-**Bold** and _Italic_ and `Code` text
+[AKGEC (College Project) ] [3rd Semester]
 
-[Link](url) and ![Image](src)
-```
+Please give this repo a :star: if it inspires you or you like it. Thanks. :blush:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+👉 [ Connect with me on LinkedIn](https://www.linkedin.com/in/connect-ankit-tiwari/) 😉
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ankit31199/Bank-Management-System-in-C/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+# License
+
+All rights reserved by [github.com/ankit31199](https://github.com/ankit31199). Contact me on LinkedIn, if you want to redistribute the code. No commercial use.
